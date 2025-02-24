@@ -21,3 +21,21 @@ Crypto Tracker is a web application designed to help users monitor cryptocurrenc
 - **APIs**: CoinGecko API for crypto data, News API for news updates
 - **Database**: Firebase Firestore
 - **Cache**: Redis
+
+## 👥 Authors & Contributors
+
+### 🎨 Frontend & UI Design, Deployment
+- **[ZYHUUUU](E-Mail: huzhenyu1124@gmail.com)**  
+  - Designed the website UI/UX  
+  - Developed most of the frontend code  
+  - Deployed the web application
+  - Managed Git version control and repository setup
+  - Helped with some functional testing and bug fixing  
+
+### ⚙️ Backend Development & API Integration
+- **[Xucheng Huang](E-mail: XuchengHuang02@gmail.com)**  
+  - Developed most of the backend code
+  - Integrated **CoinGecko API**  
+  - Helped with some frontend components
+  - Responsible for most of functional testing and bug fixing  
+  
